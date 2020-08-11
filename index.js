@@ -59,14 +59,6 @@ function dogFeeder(weight, dogAge) {
   } else if ((dogAge >= 12, weight > 15)) {
     console.log('Task 3: ', weight * 0.02)
   }
-
-  //   if (dogAge <= 11) {
-  //     console.log('Task 3: ', weight * 0.02)
-  //   } else if (dogAge <= 7) {
-  //     console.log('Task 3: ', weight * 0.04)
-  //   } else if (dogAge <= 4) {
-  //     console.log('Task 3: ', weight * 0.04)
-  //   }
 }
 
 dogFeeder(15, 1)
